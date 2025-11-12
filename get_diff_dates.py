@@ -9,3 +9,5 @@ print("Date #2: ", compare_date)
 
 diff = current_date - compare_date
 print("Number of days : ", diff.days)
+
+# Test commit
